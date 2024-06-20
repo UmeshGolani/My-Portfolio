@@ -31,7 +31,7 @@ function Projects() {
               cryptocurrencies.Designed and implemented the user interface using ReactJS, ensuring an intuitive and visually appealing
               dashboard layout. Integrated APIs to fetch real-time data from popular cryptocurrency exchanges, such as CoinGecko. Implemented data visualization features using charting libraries to display historical price trends and
               performance metrics."
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/UmeshGolani/CryptoTrackerP.git"
               demoLink="https://cryptodashboardumesh.netlify.app/"
             />
           </Col>
@@ -44,7 +44,7 @@ function Projects() {
               description="Developed a web-based Typing Test application that allows users to assess and improve their typing speed and accuracy.
               ● Incorporated features such as countdown timer, progress tracking, and error highlighting to enhance the user experience.
               ● Authentication feature implemented using Firebase Authentication."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/UmeshGolani/Typing-Test.git"
               demoLink="https://typing-test-umesh.netlify.app/"
             />
           </Col>
